@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
   s.name         = "OAuthCore"
   s.version      = "1.0.0"
-  s.summary      = "Simple function to sign requests"
+  s.summary      = "Simple function to sign requests."
   s.homepage     = "https://github.com/atebits/OAuthCore"
   s.author       = { "Loren Brichter" => "loren.brichter@atebits.com" }
   s.source       = { :git => "https://github.com/ishkawa/OAuthCore.git", :tag => "1.0.0" }
